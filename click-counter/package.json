@@ -10,7 +10,7 @@
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "^2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,10 +19,15 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "ajv": "^6.4.0",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
-    "jest": "^22.4.3",
-    "jest-enzyme": "^6.0.0"
-  }
+    "ajv": "^6.5.5",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "jest-enzyme": "^6.1.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
